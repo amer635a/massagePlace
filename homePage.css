@@ -1,0 +1,554 @@
+body {
+    background-color: black;
+  }
+
+
+#headerId{
+    
+    width: "100%";
+    height : 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+#headerRight{
+    width: 50%;
+    height : 80px;
+    display: flex;
+    align-items: center;
+}
+
+#headerLeft{
+    width: 50%;
+    height : 80px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+#sapceID{
+    width: 3%;
+}
+
+#logoPicId{
+    width: 50px;
+    height : 50px;
+}
+
+#textHeaderId{
+    color :white;
+    text-decoration: none;
+     
+}
+
+
+
+#mainPicId{
+    width: 100%;
+    height : 11%;
+    margin-bottom: 10%;
+}
+
+
+#ourMissionDivId{
+    width: 100%;
+    height : 450px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+#ourMissionLeftDivId{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ourMissionRightDivId{
+    width: 50%;
+}
+ 
+#ourMissionLeftPicId{
+    width: 80%;
+    height : 70%;
+}
+
+#ourMissionRightDivId{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+#exploreOurMassagesButtonId{
+    width: 150px;
+    height : 50px;
+    background: #ACB9DD;
+}
+
+#titleOutmissionId{
+    font-weight: bold;
+    font-size: 65px;
+    color: white;
+}
+
+#OurmissiondesId{
+    color: white;
+}
+
+#ourMissionSpaceId {
+    height : 10%;
+}
+
+
+#youDeserveToLiveLeftDivId{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#youDeserveToLiveDivId{
+    
+    width: 100%;
+    height : 600px;
+    display: flex;
+    flex-direction: row;
+     
+}
+
+#womanLegsWalkingPicId{
+    margin-left: 30%;
+   
+
+    width: 50%;
+    height : 95%;
+}
+
+#youDeserveToLiveRightDivId{
+    width: 50%;
+}
+
+#youDeserveToLiveLeftPicId{
+    width: 80%;
+    height : 70%;
+}
+
+#youDeserveToLiveRightDivId{
+    display: flex;
+    flex-direction: column;
+
+}
+
+#exploreyouDeserveToLiveButtonId{
+    width: 200px;
+    height : 50px;
+    background: #ACB9DD;
+}
+
+#titleyouDeserveToLiveId{
+    color: white;
+    font-size: 50px;
+    margin-top: 50%;
+   
+}
+#youDeserveToLiveiondesId{
+    color: white;
+}
+ 
+
+#youDeserveToLiveSpaceId {
+    height : 0%;
+}
+
+#youDeserveToLivetextDivId{
+    width: 50%;
+}
+
+
+#diveIntoOurServicesDivId {
+    display: flex;
+    margin-top:  200px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#diveIntoOurServicesTitleId{
+    color: white;
+    font-weight: bold;
+    font-size: 65px;
+}
+
+#diveIntoOurServicesDescId{
+    color: white;
+    margin-top:  10px;
+    margin-bottom:  10px;
+
+}
+
+#controlServicesDivId{
+    display: flex;
+    width: 100%;
+    height: 550px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+#servicesDivId{
+    display: flex;
+    width: 80%;
+    height: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#service1DivId, #service2DivId, #service3DivId, #service4DivId {
+    display: flex;
+    margin: 10px;
+    width: 25%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#serviceController{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 40%;
+}
+
+#servicePicId{
+    width: 90%;
+    height: 60%;
+}
+
+.clampTitle, .clampDesc {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.clampTitle {
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.clampDesc {
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    color: white;
+    margin-top: 10px;
+}
+
+#servicesButtonId{
+    color: black;
+    background: #ACB9DD;
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+}
+
+
+#FreeDownloadableIntentionCardsRighttDivId{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+#FreeDownloadableIntentionCardsDivId{
+    width: 100%;
+    height : 600px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 200px;
+    
+}
+
+#legs-woman-beachPicId{
+    margin-left: 20%;
+    width: 70%;
+    height : 95%;
+}
+
+#FreeDownloadableIntentionCardsLeftDivId{
+    
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#legs-woman-beachRightPicId{
+    width: 80%;
+    height :70%;
+}
+#descControlerDivId{
+    margin-right: 50px;
+} 
+#titleFreeDownloadableIntentionCardsId{
+    color: white;
+    font-size: 50px;
+    
+}
+
+#FreeDownloadableIntentionCardsiondesId{
+    color: white;
+    font-size: 15px;
+    
+}
+
+#inputControlerDivId{
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    margin-left: 25px;
+}
+
+input  {
+    background-color:black;
+    width: 82%;
+    margin-top:10px;
+    height: 20px;
+    border: 2px;
+    border: 1px solid #ACB9DD;
+    color:#ACB9DD;
+    
+}
+
+#bookYourbuttonId{
+    width: 46%;
+    height : 50px;
+    margin-right: 43px;
+    margin-top: 50px;
+    background: #ACB9DD;
+}
+
+#legsWomanBeachDivId{
+  
+    height :100%;
+}
+
+
+
+#dontWordControlerDivId {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+#dontWordDivId{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+
+#dontWordLeftDivId{
+    display: flex;
+    width: 60%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#seaPicId{
+    width: 90%;
+    height: 70%;
+}
+
+#dontWordRightDivId{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#dontTitleTextId{
+    font-size: 15px;
+    color: white;
+     
+}
+
+#dontTitleDescId{
+    font-size: 35px;
+    color: white;
+}
+
+#dontwordtitlecontrolerDivId{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+#footerDivId{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    margin-top: 200px;
+    
+}
+
+#footerLeftDivId{
+    display: flex;
+    width: 60%;
+    height: 100%;
+   
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#footerRightDivId{
+    display: flex;
+    width: 40%;
+    height: 100%;
+   
+    align-items: flex-end;
+    flex-direction: row-reverse;
+  
+}
+ 
+
+#iconControllerDivId{
+    margin: 10%;
+    margin-left: 20px;
+}
+
+
+#infoControllerDivId{
+    margin-bottom: 10%;
+}
+
+#textConrollerDivId{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+#infoControllerDivId{
+    color: white;
+}
+
+
+#textConrollerDivId{
+    color: white;
+
+}
+
+#aboutBodyDivId{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 600px;
+    margin-left: 2%;
+ 
+
+}
+
+
+#aboutTitleDivId{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    justify-content: space-around;
+}
+
+
+#textAboutId{
+    margin: 10px;
+}
+
+#textAboutTitleId{
+
+    font-size: 45px;
+}
+ 
+
+#galleryControllerDivId{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#galleryTextId{
+    font-size: 45px;
+    color: white;
+}
+
+
+#galleryDivId{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#galleryTextControllerId{
+    margin-right: 70%;
+}
+
+#galleryTableId{
+    width: 80%;
+}
+
+#galleryPicId{
+    width: 300px;
+    height: 250px;
+}
+
+
+.gallery-container {
+    width: 80%; /* Set gallery width to 80% of viewport */
+    margin: 0 auto; /* Center the gallery */
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.gallery img {
+    width: 100%;
+    aspect-ratio: 1 / 1; /* Ensures images are square */
+    object-fit: cover; /* Ensure images cover the area without distortion */
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+ 
+ 
+
+
+
+ 
+
